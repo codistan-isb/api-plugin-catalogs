@@ -1,5 +1,5 @@
 {
-  "name": "@reactioncommerce/api-plugin-catalogs",
+  "name": "@codistan-isb/api-plugin-catalogs",
   "description": "Catalogs plugin for the Reaction API",
   "version": "0.0.0-development",
   "main": "index.js",
